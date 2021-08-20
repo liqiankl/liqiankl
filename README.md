@@ -8,7 +8,7 @@ liqiankl
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/liqiankl/liqiankl/crisps.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/liqiankl/liqiankl/main/assets/crisps.gif" width="200"/>
 
 </p>
 
