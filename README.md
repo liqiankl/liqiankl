@@ -1,8 +1,6 @@
 # liqiankl
 
-![Welcome Banner](banner.gif)
 
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
 
 <h3> :woman: &nbsp;About Me </h3>
 
